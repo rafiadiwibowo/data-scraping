@@ -1,0 +1,44 @@
+{
+    "basic_info": {
+        "listing_code": "MQ1PT1",
+        "brand": "Rolex",
+        "model": "Daytona",
+        "reference_number": "126500ln",
+        "dealer_product_code": null,
+        "movement": "Automatic",
+        "case_material": "Steel",
+        "bracelet_material": "Steel",
+        "year_of_production": "2024",
+        "condition": "Used (Very good) The item shows minor signs of wear, such as small, intangible scratches.",
+        "scope_of_delivery": "Original box, original papers",
+        "gender": "Men's watch/Unisex",
+        "location": "Italy, Perugia",
+        "price": "€27,390 (= $28,931)",
+        "availability": "Item is in stock"
+    },
+    "caliber": {
+        "movement": "Automatic",
+        "caliber_movement": "4131",
+        "base_caliber": "4131",
+        "power_reserve": "72 h",
+        "number_of_jewels": "44"
+    },
+    "case": {
+        "case_material": "Steel",
+        "case_diameter": "40 mm",
+        "thickness": null,
+        "water_resistance": "10 ATM",
+        "bezel_material": "Ceramic",
+        "crystal": "Sapphire crystal",
+        "dial": "No numerals",
+        "dial_numerals": "No numerals"
+    },
+    "bracelet_strap": {
+        "bracelet_material": "Steel",
+        "bracelet_color": "Steel",
+        "bracelet_length": null,
+        "lug_width": null,
+        "clasp": "Steel",
+        "clasp_material": "Steel"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "basic_info": {
+        "listing_code": "MPG0G2",
+        "brand": "Rolex",
+        "model": "Daytona",
+        "reference_number": "116528",
+        "dealer_product_code": "6410",
+        "movement": "Automatic",
+        "case_material": "White gold",
+        "bracelet_material": null,
+        "year_of_production": "2006",
+        "condition": "Used (Very good) The item shows minor signs of wear, such as small, intangible scratches.",
+        "scope_of_delivery": "Original box, original papers",
+        "gender": "Men's watch/Unisex",
+        "location": "United Kingdom, N3 2DN",
+        "price": "£24,995 (= $31,597)",
+        "availability": "Item is in stock"
+    },
+    "caliber": {
+        "movement": "Automatic",
+        "caliber_movement": null,
+        "base_caliber": null,
+        "power_reserve": null,
+        "number_of_jewels": null
+    },
+    "case": {
+        "case_material": "White gold",
+        "case_diameter": "40 mm",
+        "thickness": null,
+        "water_resistance": null,
+        "bezel_material": "White gold",
+        "crystal": null,
+        "dial": "Arabic numerals",
+        "dial_numerals": "Arabic numerals"
+    },
+    "bracelet_strap": {
+        "bracelet_material": null,
+        "bracelet_color": null,
+        "bracelet_length": null,
+        "lug_width": null,
+        "clasp": null,
+        "clasp_material": null
+    }
+}
