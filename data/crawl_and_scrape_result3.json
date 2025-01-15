@@ -1,0 +1,468 @@
+[
+    {
+        "url": "https://www.chrono24.com/rolex/cosmograph-daytona-40mm-white-dial-steel-watch---ref-116520--id38236436.htm",
+        "name": "Rolex Daytona",
+        "type": "Cosmograph Daytona 40mm White Dial Steel Watch - Ref: 116520",
+        "basic_info": {
+            "listing_code": "MRJF80",
+            "brand": "Rolex",
+            "model": "Daytona",
+            "reference_number": "116520 (Daytona (1988-2015))",
+            "dealer_product_code": "U00300313",
+            "movement": "Automatic",
+            "case_material": null,
+            "bracelet_material": null,
+            "year_of_production": "2010",
+            "condition": "Used (Very good) The item shows minor signs of wear, such as small, intangible scratches.",
+            "scope_of_delivery": "Original box, original papers",
+            "gender": "Men's watch/Unisex",
+            "location": "United Kingdom, London",
+            "price": "£16,950 (= $21,117)",
+            "availability": "Item is in stock"
+        },
+        "caliber": {
+            "movement": "Automatic",
+            "caliber_movement": null,
+            "base_caliber": null,
+            "power_reserve": null,
+            "number_of_jewels": null
+        },
+        "case": {
+            "case_material": null,
+            "case_diameter": "40 mm",
+            "thickness": null,
+            "water_resistance": null,
+            "bezel_material": null,
+            "crystal": null,
+            "dial": "White",
+            "dial_numerals": null
+        },
+        "bracelet_strap": {
+            "bracelet_material": null,
+            "bracelet_color": null,
+            "bracelet_length": null,
+            "lug_width": null,
+            "clasp": null,
+            "clasp_material": null
+        }
+    },
+    {
+        "url": "https://www.chrono24.com/rolex/daytona-very-good-condition-full-set--id38235223.htm",
+        "name": "Rolex Daytona",
+        "type": "Very Good Condition Full Set",
+        "basic_info": {
+            "listing_code": "MRIHJ8",
+            "brand": "Rolex",
+            "model": "Daytona",
+            "reference_number": "116520 (Daytona (1988-2015))",
+            "dealer_product_code": null,
+            "movement": "Automatic",
+            "case_material": "Steel",
+            "bracelet_material": "Steel",
+            "year_of_production": "2011",
+            "condition": "Used (Very good) The item shows minor signs of wear, such as small, intangible scratches.",
+            "scope_of_delivery": "Original box, original papers",
+            "gender": "Men's watch/Unisex",
+            "location": "Italy, Roma",
+            "price": "€19,399 (= $20,371)",
+            "availability": "Item is in stock"
+        },
+        "caliber": {
+            "movement": "Automatic",
+            "caliber_movement": "4130",
+            "base_caliber": "Rolex 4130",
+            "power_reserve": "72 h",
+            "number_of_jewels": "44"
+        },
+        "case": {
+            "case_material": "Steel",
+            "case_diameter": "40 mm",
+            "thickness": null,
+            "water_resistance": "10 ATM",
+            "bezel_material": "Steel",
+            "crystal": "Sapphire crystal",
+            "dial": "No numerals",
+            "dial_numerals": "No numerals"
+        },
+        "bracelet_strap": {
+            "bracelet_material": "Steel",
+            "bracelet_color": "Steel",
+            "bracelet_length": null,
+            "lug_width": null,
+            "clasp": "Steel",
+            "clasp_material": "Steel"
+        }
+    },
+    {
+        "url": "https://www.chrono24.com/rolex/daytona-116520-rolex-service-042023-weiss-stahl-automatik--id38234319.htm",
+        "name": "Rolex Daytona",
+        "type": "116520 Rolex Service 04/2023 Weiß Stahl Automatik",
+        "basic_info": {
+            "listing_code": "MRHSF6",
+            "brand": "Rolex",
+            "model": "Daytona",
+            "reference_number": "116520 (Daytona (1988-2015))",
+            "dealer_product_code": "1965D",
+            "movement": "Automatic",
+            "case_material": "Steel",
+            "bracelet_material": "Steel",
+            "year_of_production": "2009 (Approximation)",
+            "condition": "Used (Very good) The item shows minor signs of wear, such as small, intangible scratches.",
+            "scope_of_delivery": "No original box, no original papers",
+            "gender": "Men's watch/Unisex",
+            "location": "Germany, Frankfurt",
+            "price": "€18,900 (= $19,847)",
+            "availability": "Item is in stock"
+        },
+        "caliber": {
+            "movement": "Automatic",
+            "caliber_movement": "4130",
+            "base_caliber": "Rolex 4130",
+            "power_reserve": "72 h",
+            "number_of_jewels": "44"
+        },
+        "case": {
+            "case_material": "Steel",
+            "case_diameter": "40 mm",
+            "thickness": null,
+            "water_resistance": "10 ATM",
+            "bezel_material": "Steel",
+            "crystal": "Sapphire crystal",
+            "dial": "No numerals",
+            "dial_numerals": "No numerals"
+        },
+        "bracelet_strap": {
+            "bracelet_material": "Steel",
+            "bracelet_color": "Steel",
+            "bracelet_length": null,
+            "lug_width": null,
+            "clasp": "Steel",
+            "clasp_material": "Steel"
+        }
+    },
+    {
+        "url": "https://www.chrono24.com/rolex/--116520--id38234285.htm",
+        "basic_info": {
+            "listing_code": null,
+            "brand": null,
+            "model": null,
+            "reference_number": null,
+            "dealer_product_code": null,
+            "movement": null,
+            "case_material": null,
+            "bracelet_material": null,
+            "year_of_production": null,
+            "condition": null,
+            "scope_of_delivery": null,
+            "gender": null,
+            "location": null,
+            "price": null,
+            "availability": null
+        },
+        "caliber": {
+            "movement": null,
+            "caliber_movement": null,
+            "base_caliber": null,
+            "power_reserve": null,
+            "number_of_jewels": null
+        },
+        "case": {
+            "case_material": null,
+            "case_diameter": null,
+            "thickness": null,
+            "water_resistance": null,
+            "bezel_material": null,
+            "crystal": null,
+            "dial": null,
+            "dial_numerals": null
+        },
+        "bracelet_strap": {
+            "bracelet_material": null,
+            "bracelet_color": null,
+            "bracelet_length": null,
+            "lug_width": null,
+            "clasp": null,
+            "clasp_material": null
+        }
+    },
+    {
+        "url": "https://www.chrono24.com/rolex/--116520-ss--id38233746.htm",
+        "name": "Rolex Daytona",
+        "type": "ロレックス コスモグラフデイトナ 116520 SS",
+        "basic_info": {
+            "listing_code": "MRHCI0",
+            "brand": "Rolex",
+            "model": "Daytona",
+            "reference_number": "116520 (Daytona (1988-2015))",
+            "dealer_product_code": "A3360053",
+            "movement": "Automatic",
+            "case_material": "Steel",
+            "bracelet_material": null,
+            "year_of_production": "Unknown",
+            "condition": "Used (Good) The item shows visible and tangible signs of wear like scratches, scuffs, or small dents.",
+            "scope_of_delivery": "Original box, no original papers",
+            "gender": null,
+            "location": "Japan, Tokyo",
+            "price": "¥2,811,050 (= $18,263)",
+            "availability": "Item needs to be procured"
+        },
+        "caliber": {
+            "movement": "Automatic",
+            "caliber_movement": null,
+            "base_caliber": null,
+            "power_reserve": null,
+            "number_of_jewels": null
+        },
+        "case": {
+            "case_material": "Steel",
+            "case_diameter": "38 mm",
+            "thickness": null,
+            "water_resistance": null,
+            "bezel_material": null,
+            "crystal": null,
+            "dial": "White",
+            "dial_numerals": null
+        },
+        "bracelet_strap": {
+            "bracelet_material": null,
+            "bracelet_color": null,
+            "bracelet_length": null,
+            "lug_width": null,
+            "clasp": null,
+            "clasp_material": null
+        }
+    },
+    {
+        "url": "https://www.chrono24.com/rolex/rolex-daytona-116520-full-set-mint-condition-stahl-steel-short-clasp-ott53--id38232223.htm",
+        "name": "Rolex Daytona",
+        "type": "116520 Full Set Mint condition Stahl steel Short clasp Ott53",
+        "basic_info": {
+            "listing_code": "MRG673",
+            "brand": "Rolex",
+            "model": "Daytona",
+            "reference_number": "116520 (Daytona (1988-2015))",
+            "dealer_product_code": "Ott5316951",
+            "movement": "Automatic",
+            "case_material": "Steel",
+            "bracelet_material": "Steel",
+            "year_of_production": "2002",
+            "condition": "Used (Very good) The item shows minor signs of wear, such as small, intangible scratches.",
+            "scope_of_delivery": "Original box, original papers",
+            "gender": "Men's watch/Unisex",
+            "location": "Italy, Roma",
+            "price": "€19,199 (= $20,161) [Negotiable]",
+            "availability": "Item is in stock"
+        },
+        "caliber": {
+            "movement": "Automatic",
+            "caliber_movement": "4130",
+            "base_caliber": "Rolex 4130",
+            "power_reserve": "72 h",
+            "number_of_jewels": "44"
+        },
+        "case": {
+            "case_material": "Steel",
+            "case_diameter": "40 mm",
+            "thickness": null,
+            "water_resistance": "10 ATM",
+            "bezel_material": "Steel",
+            "crystal": "Sapphire crystal",
+            "dial": "No numerals",
+            "dial_numerals": "No numerals"
+        },
+        "bracelet_strap": {
+            "bracelet_material": "Steel",
+            "bracelet_color": "Steel",
+            "bracelet_length": null,
+            "lug_width": null,
+            "clasp": "Steel",
+            "clasp_material": "Steel"
+        }
+    },
+    {
+        "url": "https://www.chrono24.com/rolex/rolex-daytona-116520-white-dial----f7-series--id38232191.htm",
+        "basic_info": {
+            "listing_code": null,
+            "brand": null,
+            "model": null,
+            "reference_number": null,
+            "dealer_product_code": null,
+            "movement": null,
+            "case_material": null,
+            "bracelet_material": null,
+            "year_of_production": null,
+            "condition": null,
+            "scope_of_delivery": null,
+            "gender": null,
+            "location": null,
+            "price": null,
+            "availability": null
+        },
+        "caliber": {
+            "movement": null,
+            "caliber_movement": null,
+            "base_caliber": null,
+            "power_reserve": null,
+            "number_of_jewels": null
+        },
+        "case": {
+            "case_material": null,
+            "case_diameter": null,
+            "thickness": null,
+            "water_resistance": null,
+            "bezel_material": null,
+            "crystal": null,
+            "dial": null,
+            "dial_numerals": null
+        },
+        "bracelet_strap": {
+            "bracelet_material": null,
+            "bracelet_color": null,
+            "bracelet_length": null,
+            "lug_width": null,
+            "clasp": null,
+            "clasp_material": null
+        }
+    },
+    {
+        "url": "https://www.chrono24.com/rolex/daytona--id38229992.htm",
+        "name": "Rolex Daytona",
+        "type": "116520 Full Stickers",
+        "basic_info": {
+            "listing_code": "MREG89",
+            "brand": "Rolex",
+            "model": "Daytona",
+            "reference_number": "116520 Full Stickers (Daytona (1988-2015))",
+            "dealer_product_code": null,
+            "movement": "Automatic",
+            "case_material": "Steel",
+            "bracelet_material": "Steel",
+            "year_of_production": "2011",
+            "condition": "Like new & unworn The item shows no signs of wear such as scratches or dents, and it has not been worn. The item has not been polished.",
+            "scope_of_delivery": "Original box, original papers",
+            "gender": "Men's watch/Unisex",
+            "location": "Italy, Roma",
+            "price": "€28,000 (= $29,403)",
+            "availability": "Item is in stock"
+        },
+        "caliber": {
+            "movement": "Automatic",
+            "caliber_movement": "4130",
+            "base_caliber": "Rolex 4130",
+            "power_reserve": "72 h",
+            "number_of_jewels": "44"
+        },
+        "case": {
+            "case_material": "Steel",
+            "case_diameter": "40 mm",
+            "thickness": null,
+            "water_resistance": "10 ATM",
+            "bezel_material": "Steel",
+            "crystal": "Sapphire crystal",
+            "dial": "No numerals",
+            "dial_numerals": "No numerals"
+        },
+        "bracelet_strap": {
+            "bracelet_material": "Steel",
+            "bracelet_color": "Steel",
+            "bracelet_length": null,
+            "lug_width": null,
+            "clasp": "Steel",
+            "clasp_material": "Steel"
+        }
+    },
+    {
+        "url": "https://www.chrono24.com/rolex/daytona-116520-40mm-cosmograph-white-chronograph-steel-mens-watch-v-2009--id38228602.htm",
+        "name": "Rolex Daytona",
+        "type": "116520 40mm Cosmograph White Chronograph Steel Mens Watch V 2009",
+        "basic_info": {
+            "listing_code": "MRDDM5",
+            "brand": "Rolex",
+            "model": "Daytona",
+            "reference_number": "116520 (Daytona (1988-2015))",
+            "dealer_product_code": "20145",
+            "movement": "Automatic",
+            "case_material": "Steel",
+            "bracelet_material": "Steel",
+            "year_of_production": "2009",
+            "condition": "Used (Very good) The item shows minor signs of wear, such as small, intangible scratches.",
+            "scope_of_delivery": "Original papers, no original box",
+            "gender": "Men's watch/Unisex",
+            "location": "United States of America, Florida, Miami",
+            "price": "$20,950",
+            "availability": "Item is in stock"
+        },
+        "caliber": {
+            "movement": "Automatic",
+            "caliber_movement": null,
+            "base_caliber": null,
+            "power_reserve": null,
+            "number_of_jewels": null
+        },
+        "case": {
+            "case_material": "Steel",
+            "case_diameter": "40 mm",
+            "thickness": null,
+            "water_resistance": null,
+            "bezel_material": "Steel",
+            "crystal": null,
+            "dial": "White",
+            "dial_numerals": null
+        },
+        "bracelet_strap": {
+            "bracelet_material": "Steel",
+            "bracelet_color": "Steel",
+            "bracelet_length": "203 mm",
+            "lug_width": null,
+            "clasp": "Fold clasp",
+            "clasp_material": null
+        }
+    },
+    {
+        "url": "https://www.chrono24.com/rolex/cosmograph-daytona-chromalight-116520--id38228378.htm",
+        "name": "Rolex Daytona",
+        "type": "Cosmograph Daytona Chromalight 116520",
+        "basic_info": {
+            "listing_code": "MRD7E6",
+            "brand": "Rolex",
+            "model": "Daytona",
+            "reference_number": "116520 (Daytona (1988-2015))",
+            "dealer_product_code": "16462",
+            "movement": null,
+            "case_material": "Steel",
+            "bracelet_material": "Steel",
+            "year_of_production": "2016",
+            "condition": "Used (Very good) The item shows minor signs of wear, such as small, intangible scratches.",
+            "scope_of_delivery": "Original box, original papers",
+            "gender": null,
+            "location": "Switzerland, Lausanne",
+            "price": "CHF18,900 (= $21,125)",
+            "availability": "Item is in stock"
+        },
+        "caliber": {
+            "movement": null,
+            "caliber_movement": null,
+            "base_caliber": null,
+            "power_reserve": null,
+            "number_of_jewels": null
+        },
+        "case": {
+            "case_material": "Steel",
+            "case_diameter": "40 mm",
+            "thickness": null,
+            "water_resistance": null,
+            "bezel_material": "Ceramic",
+            "crystal": null,
+            "dial": null,
+            "dial_numerals": null
+        },
+        "bracelet_strap": {
+            "bracelet_material": "Steel",
+            "bracelet_color": "Steel",
+            "bracelet_length": null,
+            "lug_width": null,
+            "clasp": null,
+            "clasp_material": null
+        }
+    }
+]

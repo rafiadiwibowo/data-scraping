@@ -1,0 +1,46 @@
+{
+    "name": "Rolex Daytona",
+    "type": "Platin Baguette Dia Dial 2023 - LC100 - Wie Neu - Fullset",
+    "basic_info": {
+        "listing_code": "MR3RB4",
+        "brand": "Rolex",
+        "model": "Daytona",
+        "reference_number": "126506",
+        "dealer_product_code": null,
+        "movement": "Automatic",
+        "case_material": "Platinum",
+        "bracelet_material": "Platinum",
+        "year_of_production": "2023",
+        "condition": "Used (Very good) The item shows minor signs of wear, such as small, intangible scratches.",
+        "scope_of_delivery": "Original box, original papers",
+        "gender": "Men's watch/Unisex",
+        "location": "Germany, München",
+        "price": "€111,500 (= $117,762) [Negotiable]",
+        "availability": "Item is in stock"
+    },
+    "caliber": {
+        "movement": "Automatic",
+        "caliber_movement": "4131",
+        "base_caliber": "4130",
+        "power_reserve": "72 h",
+        "number_of_jewels": "44"
+    },
+    "case": {
+        "case_material": "Platinum",
+        "case_diameter": "40 mm",
+        "thickness": null,
+        "water_resistance": "10 ATM",
+        "bezel_material": "Ceramic",
+        "crystal": "Sapphire crystal",
+        "dial": "No numerals",
+        "dial_numerals": "No numerals"
+    },
+    "bracelet_strap": {
+        "bracelet_material": "Platinum",
+        "bracelet_color": "Silver",
+        "bracelet_length": null,
+        "lug_width": null,
+        "clasp": "Platinum",
+        "clasp_material": "Platinum"
+    }
+}

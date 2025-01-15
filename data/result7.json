@@ -1,0 +1,46 @@
+{
+    "name": "Rolex Daytona",
+    "type": "116520 Black Dial - Box & Papers - 24-Month Warranty - 2015",
+    "basic_info": {
+        "listing_code": "MR1XW8",
+        "brand": "Rolex",
+        "model": "Daytona",
+        "reference_number": "116520 (Daytona (1988-2015))",
+        "dealer_product_code": "CM1584",
+        "movement": "Automatic",
+        "case_material": "Steel",
+        "bracelet_material": "Steel",
+        "year_of_production": "2015",
+        "condition": "Used (Very good) The item shows minor signs of wear, such as small, intangible scratches.",
+        "scope_of_delivery": "Original box, original papers",
+        "gender": "Men's watch/Unisex",
+        "location": "United Kingdom, London",
+        "price": "£17,495 (= $21,729) [Negotiable]",
+        "availability": "Item is in stock"
+    },
+    "caliber": {
+        "movement": "Automatic",
+        "caliber_movement": "4130",
+        "base_caliber": "Rolex 4130",
+        "power_reserve": "72 h",
+        "number_of_jewels": "44"
+    },
+    "case": {
+        "case_material": "Steel",
+        "case_diameter": "40 mm",
+        "thickness": null,
+        "water_resistance": "10 ATM",
+        "bezel_material": "Steel",
+        "crystal": "Sapphire crystal",
+        "dial": "No numerals",
+        "dial_numerals": "No numerals"
+    },
+    "bracelet_strap": {
+        "bracelet_material": "Steel",
+        "bracelet_color": "Steel",
+        "bracelet_length": null,
+        "lug_width": null,
+        "clasp": "Steel",
+        "clasp_material": "Steel"
+    }
+}
